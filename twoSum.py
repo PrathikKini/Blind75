@@ -19,3 +19,7 @@ def twosum(nums,target):
         if diff in prevMap:
             return [prevMap[diff],i]
         prevMap[n] = i 
+
+print(twosum([2,7,11,15],9))
+print(twosum([3,2,4],6))
+print(twosum([3,3],6))
