@@ -7,6 +7,3 @@ def duplicates(nums):
     return False
 
 print(duplicates([1,2,3,4,5,1]))
-
-
-
