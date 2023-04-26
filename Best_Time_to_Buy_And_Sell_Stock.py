@@ -21,4 +21,4 @@ def maximumProfit(prices):
     return res
 
 print(maximumProfit([7,1,5,3,6,4]))
-print(maximumProfit([7,6,4,3,1]))
+print(maximumProfit([7,6,4,3,1])) 
