@@ -1,4 +1,4 @@
-# Blind75
+# Leetcode Blind75
 
 This repository contains my solutions to the Leetcode Blind 75 problems, a curated list of essential coding problems aimed at preparing for technical interviews. 
 
